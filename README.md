@@ -28,7 +28,7 @@ If you need to update npm, you can make it using npm! Cool right? After running 
 
 $ npm install npm -g
 Install
-$ git clone https://github.com/SAMBIT20/Polling-System-API
+$ git clone https://github.com/Saurabh9399/CV_upload.git
 $ cd Polling-System-API
 $ npm install
 Configure app
